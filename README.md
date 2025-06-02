@@ -24,7 +24,7 @@ We adapt the DDSP architecture to a **low-data timbre transfer setting**, using 
 
 The diagram below illustrates the inference-time pipeline:
 
-![Architecture Diagram](INSERT_YOUR_FINAL_IMAGE_LINK_HERE)
+![Architecture Diagram](Diagrams/detailed_training_diagram.png)
 
 ### Steps:
 1. **Input Audio**:  
