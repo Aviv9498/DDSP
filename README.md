@@ -67,7 +67,7 @@ Sourced from [**MusOpen**](https://musopen.org/) — royalty-free and consistent
 
 ## 🔊 Example Output
 
-All generated audio examples from our timbre transfer model can be found in the [`recordings`](./recordings) folder.
+All generated audio examples from our timbre transfer model can be found in the [`recordings`](./reccordings) folder.
 
 These include violin inputs and their corresponding flute-converted outputs, organized by experiment and timestamp.
 
