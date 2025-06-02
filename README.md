@@ -77,10 +77,10 @@ Sourced from [**MusOpen**](https://musopen.org/) — royalty-free and consistent
 
 This project was developed by:
 
-- **Omer Hazan**  
+- **Ronel Davidov**  
 - **Aviv Ben Ari**  
-- **Tal Kozakov**  
-- **Dor Patel**
+- **Yovel veiman**  
+- **Dolev Dahan**
 
 ---
 
@@ -98,6 +98,6 @@ This project was developed by:
 ---
 
 📫 For access to trained models or further questions, feel free to contact:  
-**hazanom@post.bgu.ac.il, beaviv@post.bgu.ac.il, talkoz@post.bgu.ac.il, dorpat@post.bgu.ac.il**
+**davidovr@post.bgu.ac.il, beaviv@post.bgu.ac.il,  veimany@post.bgu.ac.il,  dahandol@post.bgu.ac.il**
 
 We welcome contributions, feedback, and questions! 🚀🎶
