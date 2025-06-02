@@ -67,11 +67,10 @@ Sourced from [**MusOpen**](https://musopen.org/) — royalty-free and consistent
 
 ## 🔊 Example Output
 
-🎧 Examples will be added here soon — stay tuned for flute-converted violin excerpts!
+All generated audio examples from our timbre transfer model can be found in the [`recordings`](./recordings) folder.
 
-<!-- Replace with actual audio player links or waveform plots when available -->
+These include violin inputs and their corresponding flute-converted outputs, organized by experiment and timestamp.
 
----
 
 ## 👥 Contributors
 
