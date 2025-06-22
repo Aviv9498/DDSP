@@ -78,7 +78,7 @@ This project was developed by:
 
 - **Ronel Davidov**  
 - **Aviv Ben Ari**  
-- **Yovel veiman**  
+- **Yuval veiman**  
 - **Dolev Dahan**
 
 ---
